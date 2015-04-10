@@ -8,6 +8,9 @@ on the receiver-side. On top it adds some sugar like displaying the transfer rat
 ### usage on the sender side:
 
 ```
+// transfer files from the current repo
+// here is the guidelines 
+
 // transfer the files from the current directory
 airtar .
 
